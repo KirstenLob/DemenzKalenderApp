@@ -3,7 +3,7 @@ Installation der Entwickungsumgebung und Projektübertragung
 
 Installation auf Windows
 ------------------------
-1. Android Stuio installieren.
+1. Android Studio installieren.
 2. GitHub Zugang anlegen.
 3. Git auf dem Rechner installieren. ( Es kann vorab im Terminal geprüft werden, ob eine git Version bereits installiert ist. Befehl: git --version. Wenn eine Version angezeigt wird ist Git bereits installiert.)
 4. Unter GitHub das Repository DemenzKalenderApp suchen und clonen.
